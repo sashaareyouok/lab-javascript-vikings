@@ -1,5 +1,7 @@
 // Soldier
-class Soldier {}
+class Soldier {
+    constructor() {}
+}
 
 // Viking
 class Viking {}
